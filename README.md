@@ -16,6 +16,7 @@
 
 ## 자바 (JAVA)
 
+- 문서 : [생활 코딩](https://opentutorials.org/course/1223)
 - 문서 : [점프 투 자바(자바)](https://wikidocs.net/9112)
 - 문서 : [테크 블로그(TDD, Spring, CS 등)](https://incheol-jung.gitbook.io/docs/q-and-a/computer-science)
 - 문서 : [baeldung (Spring 다듬은 자료)](https://www.baeldung.com/)
